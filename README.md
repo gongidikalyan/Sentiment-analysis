@@ -58,8 +58,8 @@ The model was trained and tested on a review dataset and achieved satisfactory a
 
 ├── Sentiment_Analysis.ipynb
 ├── dataset.tsv
-├── requirements.txt
 ├── README.md
+
  How to Run
 
 1. Clone the repository:
