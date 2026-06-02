@@ -68,13 +68,7 @@ The model was trained and tested on a review dataset and achieved satisfactory a
    git clone <repository-link>
    ```
 
-2. Install required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook or Python script.
+2. Run the Jupyter Notebook or Python script.
 
  Learning Outcomes
 
